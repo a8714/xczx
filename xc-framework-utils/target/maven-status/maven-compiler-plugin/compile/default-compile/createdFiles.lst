@@ -1,0 +1,16 @@
+com\xuecheng\framework\utils\UtilsApplication.class
+com\xuecheng\framework\utils\GenerateOrderNum.class
+com\xuecheng\framework\utils\Oauth2Util.class
+com\xuecheng\framework\utils\CookieUtil.class
+com\xuecheng\framework\utils\MD5Util.class
+com\xuecheng\framework\utils\VideoUtil.class
+com\xuecheng\framework\utils\HttpClient.class
+com\xuecheng\framework\utils\BCryptUtil.class
+com\xuecheng\framework\utils\Mp4VideoUtil.class
+com\xuecheng\framework\utils\HlsVideoUtil.class
+com\xuecheng\framework\utils\XcOauth2Util.class
+com\xuecheng\framework\utils\SnowflakeIdWorker.class
+com\xuecheng\framework\utils\ZipUtil.class
+com\xuecheng\framework\utils\Snowflake.class
+com\xuecheng\framework\utils\XcOauth2Util$UserJwt.class
+com\xuecheng\framework\utils\HttpClient$1.class
